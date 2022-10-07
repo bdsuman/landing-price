@@ -17,7 +17,7 @@ a{
   outline: none !important;
 }
 .btn {
-  padding: 18px 40px;
+  padding: 18px 30px;
   cursor: pointer;
   border-radius: 4px;
   box-shadow: none !important;
@@ -137,7 +137,7 @@ a{
 
 @media only screen and (min-width: 600px) and (max-width: 999px) {
   .overview {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
   
 }
